@@ -45,6 +45,3 @@ The main objectives are to:
 |   ├── spc_train.xlsx
 |   └── FHODistributionBySpecies.png
 │   └── split.py
-│   
-└── supporting_files/
-    └── Earlier EDA and multiple-regression working files
